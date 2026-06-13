@@ -12,6 +12,10 @@ It is built specifically for the following devices:
 
 ---
 
+## Preview 
+<img width="959" height="500" alt="Screenshot 2026-06-13 002446" src="https://github.com/user-attachments/assets/06067a16-f2d7-4aba-ab64-9bafcf8bc925" />
+
+
 ## ✨ About the Project
 
 Pixel devices can occasionally experience modem, baseband, or identity-related issues after firmware problems, unsuccessful flashing attempts, corrupted device data, partition errors, or other software-related failures.
