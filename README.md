@@ -248,10 +248,6 @@ Users should still review diagnostic logs before sharing them publicly because l
 
 The utility is built as a Windows desktop application using:
 
-* Electron
-* HTML
-* CSS
-* JavaScript
 * Android Debug Bridge
 * Fastboot
 * Android SDK Platform Tools
